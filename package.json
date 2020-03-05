@@ -11,6 +11,6 @@
 	},
 	"repository": {},
 	"engines": {
-		"node": "13.x"
+		"node": "12.13.0"
 	}
 }
